@@ -1,1 +1,3 @@
 ## Pagina xx
+
+![maglio.png]
